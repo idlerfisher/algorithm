@@ -1,3 +1,9 @@
+/**
+ * Created by Fisher on 2019/10/20.
+ * 插入排序
+ * 平均复杂度O(n^2) 最好情况O(n) 最坏情况O(n^2)  空间复杂度O(1) 稳定
+ */
+
 package sort
 
 func InsertSort(data []int) {
